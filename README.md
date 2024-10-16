@@ -1,6 +1,33 @@
-## Meu primeiro código C#
+# Repositório de Estudos com C#
 
-<p> Neste código é criado uma lista de alunos e uma despedida de fim de aula para eles.</p>
+Bem-vindo ao meu repositório de estudos sobre C#! Aqui você encontrará uma coleção de projetos, anotações e exercícios que estou desenvolvendo enquanto aprendo sobre esta linguagem de programação poderosa.
+
+## Objetivo
+
+O objetivo deste repositório é organizar o conhecimento adquirido e compartilhar exemplos práticos de como utilizar C# para desenvolver aplicações de diferentes tipos, incluindo aplicações console, web e desktop.
+
+## Estrutura do Repositório
+
+- **/projetos**: Contém projetos completos que utilizam C#.
+- **/anotacoes**: Anotações e conceitos importantes relacionados ao C#.
+- **/exercicios**: Exercícios práticos para reforçar o aprendizado.
+
+## Tecnologias Utilizadas
+
+- **C#**: Linguagem de programação.
+- **.NET Core**: Plataforma para construir aplicações.
+- **ASP.NET**: Framework para desenvolvimento de aplicações web (se aplicável).
+- **Entity Framework**: Biblioteca para acesso a dados.
+
+## Como Começar
+
+Para começar a explorar os projetos neste repositório, siga os passos abaixo:
+
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/seu_usuario/estudos-csharp.git
+   cd estudos-csharp/projetos/nome_do_projeto
+
 
 ## Autor
 <div align="center">
